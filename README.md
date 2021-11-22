@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/banaj/ee25237f-11c6-4783-a8d3-7cf2b55a4bd4/12345e56-733d-4119-a4d2-045a3308cb87/_apis/work/boardbadge/18957eaf-4d2a-42b8-b11f-b7833045e103)](https://dev.azure.com/banaj/ee25237f-11c6-4783-a8d3-7cf2b55a4bd4/_boards/board/t/12345e56-733d-4119-a4d2-045a3308cb87/Microsoft.RequirementCategory)
 ---
 page_type: sample
 languages:
